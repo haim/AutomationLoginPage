@@ -12,7 +12,6 @@ README.md
 build/
 helperfiles/
 pom.xml
-src/
 target/
 "target\\allure-results\\screenshots\\screenshot1226589696293639779.png"
 "target\\allure-results\\screenshots\\screenshot1491449979796872532.png"
