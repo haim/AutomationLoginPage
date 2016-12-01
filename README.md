@@ -4,16 +4,22 @@ LoginPageTests
 
 An example of Java project using UI tests to test LoginPage.
 
+# How to build
+
+
 # Prompt:
 * For Windows please change in POM
 * `<webdriver.chrome.driver>./helperfiles/chromedriver</webdriver.chrome.driver>`
 * To
 * `<webdriver.chrome.driver>./helperfiles/chromedriver.exe</webdriver.chrome.driver>`
 
+
 # Commands:
 To run Tests (chrome):
 
+* `git clone https://github.com/haim/AutomationLoginPage.git`
 * `mvn clean test`
+
 
 To run individual test:
 
